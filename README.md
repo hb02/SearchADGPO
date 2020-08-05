@@ -1,8 +1,8 @@
 # SearchADGPO
-Tool for Searching Current User Domain
+Tool for searching a specified string within all Domain GPO's
 
 ## Purpose
-The main Function is to Search your whole AD-Gpo's vor a defined string. This tool is intended to use on a DomainController or a Computer where you installed the GPEdit-Snapin via FOD.
+The main Function is to Search your whole AD-Gpo's for a defined string. This tool is intended to use on a DomainController or a Computer where you installed the GPEdit-Snapin via FOD.
 
 ## Language
 This little Tool is written in C#.
